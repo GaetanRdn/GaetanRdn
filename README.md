@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🚀 EasyAngularKit est enfin sorti (07/01/2025)
+
+🤔 curieux de savoir ce que c'est ?
+
+👉🏼 rendez-vous ici https://easyangularkit.com
 <!--
 **GaetanRdn/GaetanRdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
