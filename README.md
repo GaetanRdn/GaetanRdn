@@ -12,6 +12,8 @@ Je partage tout mon savoir sur [EasyAngularKit](https://app.easyangularkit.com).
 
 ## Stats GitHub
 
+[![Private Contributions](https://img.shields.io/badge/Code-Also%20on%20private%20repos-blueviolet)]()
+
 ![Mes GitHub stats](https://github-readme-stats.vercel.app/api?username=gaetanrdn&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanrdn&layout=compact&theme=radical)
