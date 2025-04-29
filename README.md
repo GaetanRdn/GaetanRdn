@@ -18,7 +18,8 @@ Je partage tout mon savoir sur [EasyAngularKit](https://app.easyangularkit.com).
 
 ## Où me trouver
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonprofil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaetan-redin/)
+[![YouTube](https://img.shields.io/badge/-YouTube?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ReCowdGaetanRedin)
 
 ---
 
