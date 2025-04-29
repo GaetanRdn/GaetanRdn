@@ -7,3 +7,5 @@
 👉🏼 rendez-vous ici https://easyangularkit.com
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=gaetanrdn&show_icons=true)
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=gaetanrdn)
