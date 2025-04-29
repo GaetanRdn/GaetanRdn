@@ -1,11 +1,25 @@
-### Hi there 👋
+# Salut, moi c’est Gaetan !
 
-🚀 EasyAngularKit est enfin sorti (07/01/2025)
+Développeur passionné par Angular, TypeScript et la clean architecture.  
+Je partage tout mon savoir sur [EasyAngularKit](https://app.easyangularkit.com).
 
-🤔 curieux de savoir ce que c'est ?
+## Tech Stack
 
-👉🏼 rendez-vous ici https://easyangularkit.com
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gaetanrdn&show_icons=true)
+## Stats GitHub
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=gaetanrdn)
+![Mes GitHub stats](https://github-readme-stats.vercel.app/api?username=gaetanrdn&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanrdn&layout=compact&theme=radical)
+
+## Où me trouver
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonprofil)
+
+---
+
+> "Code less, structure more."
