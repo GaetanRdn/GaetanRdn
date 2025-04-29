@@ -6,4 +6,4 @@
 
 👉🏼 rendez-vous ici https://easyangularkit.com
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gredin2712&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=gaetanrdn&show_icons=true)
